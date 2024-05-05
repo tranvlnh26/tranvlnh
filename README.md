@@ -1,9 +1,15 @@
 # tranvlnh
 
 ### 📊 My Github stats
-<div> 
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvlnh26&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvlnh26&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" />
+</div>
+
+<h1 align="left">
   
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranvlnh26&text_color=9f9f9f&bg_color=151515)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranvlnh26&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=3)
-  
+</h1>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranvlnh26&theme=tokyonight" />
 </div>
